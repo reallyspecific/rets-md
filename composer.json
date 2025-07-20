@@ -1,0 +1,16 @@
+{
+    "name": "reallyspecific/rets-md",
+    "type": "library",
+    "version": "1.0.0-dev",
+    "authors": [
+        {
+            "name": "FLOPS LLC",
+            "email": "flops@floatingpoint.cloud"
+        }
+    ],
+    "require": {
+        "composer-runtime-api": "^2.2.2",
+        "php": ">=8.2",
+    },
+    "require-dev": {}
+}
