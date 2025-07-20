@@ -6,11 +6,16 @@
         {
             "name": "FLOPS LLC",
             "email": "flops@floatingpoint.cloud"
+        },{
+            "name": "Troy Davisson",
+            "email": "troy.davisson@gmail.com",
+            "homepage": "http://troda.com",
+            "role": "Developer"
         }
     ],
     "require": {
         "composer-runtime-api": "^2.2.2",
-        "php": ">=8.2",
+        "php": ">=8.2"
     },
     "require-dev": {}
 }
