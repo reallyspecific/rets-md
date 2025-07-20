@@ -1,3 +1,9 @@
+# RETS-MD PHP 8 fork
+
+This fork of troydavisson/RETS-MD primarily exists to provide PHP 8 support, with some additional updates for extensibility within WordPress
+
+
+Original readme:  
 RETS MD
 =======
 
